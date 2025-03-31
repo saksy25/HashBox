@@ -1,5 +1,7 @@
 # HashBox: File Integrity Monitoring System
 
+![Image](https://github.com/user-attachments/assets/83934091-394e-4741-86fd-94308a6fc473)
+
 ## Overview
 HashBox is a comprehensive file integrity monitoring system designed to provide real-time vigilance over your files and directories. Using SHA-256 hashing and metadata tracking, HashBox allows users to detect unauthorized modifications, ensuring the integrity and security of sensitive data.
 
